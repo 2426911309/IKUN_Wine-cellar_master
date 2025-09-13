@@ -38,19 +38,19 @@ IntelliJ IDEA 2023.2.2+Navicat Premium 16+ElementUI
 
 #### 登录页面
 
-![image-20250911125721927](E:\ysl\桌面\文件\垃圾课\web\作业\酒窖管理系统\2_酒窖管理系统\IKUN_Wine cellar_master\image1.png)
+![image1](./image1.png)
 
 #### 酒窖信息管理
 
-![image4](E:\ysl\桌面\文件\垃圾课\web\作业\酒窖管理系统\2_酒窖管理系统\IKUN_Wine cellar_master\image4.png)
+![image4](./image4.png)
 
 #### 工作人员管理
 
-![image3](E:\ysl\桌面\文件\垃圾课\web\作业\酒窖管理系统\2_酒窖管理系统\IKUN_Wine cellar_master\image3.png)
+![image3](./image3.png)
 
 #### 库存存取管理
 
-![image2](E:\ysl\桌面\文件\垃圾课\web\作业\酒窖管理系统\2_酒窖管理系统\IKUN_Wine cellar_master\image2.png)
+![image2](./image2.png)
 
 
 
